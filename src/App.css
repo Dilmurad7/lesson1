@@ -3,8 +3,16 @@
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  width: 822px;
+  height: 622px;
+ 
+}
+.par {
+  font-size: l90px;
+  font-family: 'Times New Roman', Times, serif;
+  color: red;
+  border: blue;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
